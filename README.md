@@ -1,6 +1,8 @@
 # Flutter KohPay E-Commerce App
 
-Built in Dart Programming Language  To run this app run these commands in your Terminal:
+Built in Dart Programming Language.
+
+To run this app run these commands in your Terminal:
 Method 1:
 1. 'dart fix --dry-run'
 2. 'dart fix --apply'
